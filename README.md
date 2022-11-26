@@ -1,5 +1,5 @@
-# IRE
+# EREF
 
-## Paper "Rules and Entity Information Embed Representation Learning Method for Knowledge Graph".
+## Paper "EREF: An Enhanced Representation Learning Mechanism with Rule and Entity Fusion".
 
 Full data will be uploaded after the paper is accepted.
